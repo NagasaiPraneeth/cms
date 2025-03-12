@@ -2,7 +2,6 @@ import React from 'react';
 
 function Home() {
   return (
-
     <div className="container-custom section animate-fade-in">
       <div className="max-w-4xl mx-auto">
         <h1 className="text-4xl font-bold mb-6 text-primary text-center">Welcome to Campus Canteen</h1>
