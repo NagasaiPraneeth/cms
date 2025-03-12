@@ -2,15 +2,7 @@ import React from 'react';
 
 function Home() {
   return (
-<<<<<<< Updated upstream
-    <div className="home-container">
-      <h1>Welcome to the Home Page</h1>
-      <p>This is a simple Home component that you can navigate to using React Router.</p>
-      <div className="home-content">
-        <h2>Started</h2>
-        <p>This component is being rendered by the route configuration in App.jsx.</p>
-        <p>Feel free to modify this component to suit your needs!</p>
-=======
+
     <div className="container-custom section animate-fade-in">
       <div className="max-w-4xl mx-auto">
         <h1 className="text-4xl font-bold mb-6 text-primary text-center">Welcome to Campus Canteen</h1>
@@ -41,7 +33,6 @@ function Home() {
             <p className="text-gray-600">View your order history and manage your favorite meals for quick reordering.</p>
           </div>
         </div>
->>>>>>> Stashed changes
       </div>
     </div>
   );
